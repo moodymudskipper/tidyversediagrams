@@ -1,0 +1,30 @@
+navbar:
+  structure:
+    left:  [home, ggplot2, dplyr, tidyr, readr, purrr, tibble, stringr, forcats]
+    right: [github]
+  components:
+    home: ~
+    ggplot2:
+     text: ggplot2
+     href: ggplot2.html
+    dplyr:
+     text: dplyr
+     href: dplyr.html
+    tidyr:
+     text: tidyr
+     href: tidyr.html
+    readr:
+     text: readr
+     href: readr.html
+    purrr:
+     text: purrr
+     href: purrr.html
+    tibble:
+     text: tibble
+     href: tibble.html
+    stringr:
+     text: stringr
+     href: stringr.html
+    forcats:
+     text: forcats
+     href: forcats.html
