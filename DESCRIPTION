@@ -17,3 +17,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/moodymudskipper/tidyversediagrams
+BugReports: https://github.com/moodymudskipper/tidyversediagrams/issues
